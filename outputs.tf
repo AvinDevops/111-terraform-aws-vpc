@@ -18,3 +18,6 @@ output "database_subnet_ids" {
     value = aws_subnet.database[*].id
 }
 
+output "igw_id" {
+    value = aws_internet_gateway.igw.id
+}

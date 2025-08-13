@@ -46,5 +46,6 @@ In our company devops.com we are creating subnets in 2 high availability zones
 * public_subnet_ids: we are getting created public subnet ids
 * private_subnet_ids: we are getting created private subnet ids
 * database_subnet_ids: we are getting created database subnet ids
+* igw_id: we are getting created igw id
 
 
